@@ -1,6 +1,6 @@
 # Amplitude Modulation using NumPy and Matplotlib
 
-# AIM
+# Aim
 To implement and analyze amplitude modulation (AM) using Python's NumPy and Matplotlib libraries.
 # Apparatus Required
 Software : PythonwithNumPyandMatplotlib libraries
@@ -17,5 +17,15 @@ Amplitude Modulation (AM) is a technique used in electronic communication, prima
 4.	GenerateCarrierSignal:Definethecarrier signalasacosinewave.
 5.	ModulateSignal:ApplytheAMformulatoobtainthemodulatedsignal.
 6.	PlottheSignals:UseMatplotlibtoplotthemessagesignal,carriersignal,andmodulated signal.
+# Program
+
+<img width="335" height="475" alt="am-code" src="https://github.com/user-attachments/assets/f880d212-6ca8-498a-a3bd-ea94fad9c313" />
+
+# Output
+
+<img width="554" height="413" alt="am-python" src="https://github.com/user-attachments/assets/3246bd5b-c7c1-4dd2-b484-ba40f355916e" />
+
+# Tabulation
+
 # Result
 Themessagesignal,carriersignal,andamplitudemodulated(AM)signalwillbedisplayedinseparateplots. Thus AM is implemented using numPy and Matplotlib.
