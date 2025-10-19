@@ -21,7 +21,7 @@ Amplitude Modulation (AM) is a technique used in electronic communication, prima
 
 <img width="335" height="475" alt="am-code" src="https://github.com/user-attachments/assets/f880d212-6ca8-498a-a3bd-ea94fad9c313" />
 
-# Output
+# Output Waveform
 
 <img width="554" height="413" alt="am-python" src="https://github.com/user-attachments/assets/3246bd5b-c7c1-4dd2-b484-ba40f355916e" />
 
